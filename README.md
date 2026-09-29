@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/op15082005light/leetcode/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/op15082005light/leetcode/tree/master/0015-3sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -27,4 +28,12 @@
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/op15082005light/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Two Pointers
+|  |
+| ------- |
+| [0015-3sum](https://github.com/op15082005light/leetcode/tree/master/0015-3sum) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/op15082005light/leetcode/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
