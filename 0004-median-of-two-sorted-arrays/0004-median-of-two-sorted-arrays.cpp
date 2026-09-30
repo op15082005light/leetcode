@@ -18,7 +18,7 @@ int r2=m2==large.size()?INT_MAX:large[m2];
 
 if(l1<=r2&&l2<=r1){
     if(length%2==0){
-        return double (max(l1,l2)+min(r1,r2))/2;
+        return  (max(l1,l2)+min(r1,r2))/2.0;
     }else{
         return max(l1,l2);
     }
