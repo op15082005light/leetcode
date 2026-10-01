@@ -25,15 +25,18 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/op15082005light/leetcode/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/op15082005light/leetcode/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/op15082005light/leetcode/tree/master/0242-valid-anagram) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/op15082005light/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/op15082005light/leetcode/tree/master/0020-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/op15082005light/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/op15082005light/leetcode/tree/master/0020-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/op15082005light/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Two Pointers
 |  |
