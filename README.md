@@ -14,6 +14,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/op15082005light/leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/op15082005light/leetcode/tree/master/0013-roman-to-integer) |
+| [0242-valid-anagram](https://github.com/op15082005light/leetcode/tree/master/0242-valid-anagram) |
 ## Math
 |  |
 | ------- |
@@ -24,6 +25,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/op15082005light/leetcode/tree/master/0013-roman-to-integer) |
+| [0242-valid-anagram](https://github.com/op15082005light/leetcode/tree/master/0242-valid-anagram) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/op15082005light/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Stack
 |  |
@@ -44,6 +46,7 @@
 | ------- |
 | [0015-3sum](https://github.com/op15082005light/leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/op15082005light/leetcode/tree/master/0018-4sum) |
+| [0242-valid-anagram](https://github.com/op15082005light/leetcode/tree/master/0242-valid-anagram) |
 ## Geometry
 |  |
 | ------- |
