@@ -9,6 +9,7 @@
 | [0014-longest-common-prefix](https://github.com/op15082005light/leetcode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/op15082005light/leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/op15082005light/leetcode/tree/master/0018-4sum) |
+| [0136-single-number](https://github.com/op15082005light/leetcode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/op15082005light/leetcode/tree/master/0189-rotate-array) |
 ## Hash Table
 |  |
@@ -68,4 +69,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/op15082005light/leetcode/tree/master/0014-longest-common-prefix) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/op15082005light/leetcode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
