@@ -75,4 +75,8 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/op15082005light/leetcode/tree/master/0136-single-number) |
+## Linked List
+|  |
+| ------- |
+| [1669-merge-in-between-linked-lists](https://github.com/op15082005light/leetcode/tree/master/1669-merge-in-between-linked-lists) |
 <!---LeetCode Topics End-->
