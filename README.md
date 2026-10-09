@@ -49,6 +49,7 @@
 | [0018-4sum](https://github.com/op15082005light/leetcode/tree/master/0018-4sum) |
 | [0125-valid-palindrome](https://github.com/op15082005light/leetcode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/op15082005light/leetcode/tree/master/0189-rotate-array) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/op15082005light/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Sorting
 |  |
 | ------- |
@@ -79,4 +80,5 @@
 |  |
 | ------- |
 | [1669-merge-in-between-linked-lists](https://github.com/op15082005light/leetcode/tree/master/1669-merge-in-between-linked-lists) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/op15082005light/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 <!---LeetCode Topics End-->
