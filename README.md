@@ -81,6 +81,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0092-reverse-linked-list-ii](https://github.com/op15082005light/leetcode/tree/master/0092-reverse-linked-list-ii) |
 | [0206-reverse-linked-list](https://github.com/op15082005light/leetcode/tree/master/0206-reverse-linked-list) |
 | [0817-linked-list-components](https://github.com/op15082005light/leetcode/tree/master/0817-linked-list-components) |
 | [1669-merge-in-between-linked-lists](https://github.com/op15082005light/leetcode/tree/master/1669-merge-in-between-linked-lists) |
