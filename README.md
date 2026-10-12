@@ -12,12 +12,14 @@
 | [0018-4sum](https://github.com/op15082005light/leetcode/tree/master/0018-4sum) |
 | [0136-single-number](https://github.com/op15082005light/leetcode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/op15082005light/leetcode/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/op15082005light/leetcode/tree/master/0217-contains-duplicate) |
 | [0817-linked-list-components](https://github.com/op15082005light/leetcode/tree/master/0817-linked-list-components) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/op15082005light/leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/op15082005light/leetcode/tree/master/0013-roman-to-integer) |
+| [0217-contains-duplicate](https://github.com/op15082005light/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/op15082005light/leetcode/tree/master/0242-valid-anagram) |
 | [0817-linked-list-components](https://github.com/op15082005light/leetcode/tree/master/0817-linked-list-components) |
 ## Math
@@ -60,6 +62,7 @@
 | [0015-3sum](https://github.com/op15082005light/leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/op15082005light/leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/op15082005light/leetcode/tree/master/0018-4sum) |
+| [0217-contains-duplicate](https://github.com/op15082005light/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/op15082005light/leetcode/tree/master/0242-valid-anagram) |
 ## Geometry
 |  |
