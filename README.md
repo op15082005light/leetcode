@@ -16,6 +16,7 @@
 | [0189-rotate-array](https://github.com/op15082005light/leetcode/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/op15082005light/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/op15082005light/leetcode/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/op15082005light/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/op15082005light/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/op15082005light/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0817-linked-list-components](https://github.com/op15082005light/leetcode/tree/master/0817-linked-list-components) |
@@ -26,6 +27,7 @@
 | [0013-roman-to-integer](https://github.com/op15082005light/leetcode/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/op15082005light/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/op15082005light/leetcode/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/op15082005light/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/op15082005light/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0817-linked-list-components](https://github.com/op15082005light/leetcode/tree/master/0817-linked-list-components) |
 ## Math
@@ -62,6 +64,7 @@
 | [0075-sort-colors](https://github.com/op15082005light/leetcode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/op15082005light/leetcode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/op15082005light/leetcode/tree/master/0189-rotate-array) |
+| [0349-intersection-of-two-arrays](https://github.com/op15082005light/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/op15082005light/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Sorting
 |  |
@@ -73,6 +76,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/op15082005light/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/op15082005light/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/op15082005light/leetcode/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/op15082005light/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/op15082005light/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/op15082005light/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 ## Geometry
@@ -84,6 +88,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/op15082005light/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/op15082005light/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0349-intersection-of-two-arrays](https://github.com/op15082005light/leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Divide and Conquer
 |  |
 | ------- |
