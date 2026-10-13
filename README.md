@@ -19,6 +19,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/op15082005light/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/op15082005light/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/op15082005light/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0704-binary-search](https://github.com/op15082005light/leetcode/tree/master/0704-binary-search) |
 | [0817-linked-list-components](https://github.com/op15082005light/leetcode/tree/master/0817-linked-list-components) |
 ## Hash Table
 |  |
@@ -89,6 +90,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/op15082005light/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/op15082005light/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/op15082005light/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0704-binary-search](https://github.com/op15082005light/leetcode/tree/master/0704-binary-search) |
 ## Divide and Conquer
 |  |
 | ------- |
