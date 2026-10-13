@@ -11,6 +11,7 @@
 | [0016-3sum-closest](https://github.com/op15082005light/leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/op15082005light/leetcode/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/op15082005light/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0075-sort-colors](https://github.com/op15082005light/leetcode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/op15082005light/leetcode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/op15082005light/leetcode/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/op15082005light/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -58,6 +59,7 @@
 | [0015-3sum](https://github.com/op15082005light/leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/op15082005light/leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/op15082005light/leetcode/tree/master/0018-4sum) |
+| [0075-sort-colors](https://github.com/op15082005light/leetcode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/op15082005light/leetcode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/op15082005light/leetcode/tree/master/0189-rotate-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/op15082005light/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -67,6 +69,7 @@
 | [0015-3sum](https://github.com/op15082005light/leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/op15082005light/leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/op15082005light/leetcode/tree/master/0018-4sum) |
+| [0075-sort-colors](https://github.com/op15082005light/leetcode/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/op15082005light/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/op15082005light/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/op15082005light/leetcode/tree/master/0242-valid-anagram) |
@@ -118,4 +121,12 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/op15082005light/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/op15082005light/leetcode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/op15082005light/leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
