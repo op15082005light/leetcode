@@ -21,6 +21,7 @@
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/op15082005light/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0704-binary-search](https://github.com/op15082005light/leetcode/tree/master/0704-binary-search) |
 | [0817-linked-list-components](https://github.com/op15082005light/leetcode/tree/master/0817-linked-list-components) |
+| [1539-kth-missing-positive-number](https://github.com/op15082005light/leetcode/tree/master/1539-kth-missing-positive-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -91,6 +92,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/op15082005light/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/op15082005light/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/op15082005light/leetcode/tree/master/0704-binary-search) |
+| [1539-kth-missing-positive-number](https://github.com/op15082005light/leetcode/tree/master/1539-kth-missing-positive-number) |
 ## Divide and Conquer
 |  |
 | ------- |
