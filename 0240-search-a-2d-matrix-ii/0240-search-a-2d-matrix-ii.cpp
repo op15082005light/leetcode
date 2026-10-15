@@ -7,7 +7,7 @@ public:
         int n=matrix.size();
 s=0;
 e=m-1;
-        while( s>=0 && e>=0 && s<n && e<m ){
+        while( e>=0 && s<n ){
             if(matrix[s][e]==target){
 return true;
             }else if(matrix[s][e]<target){
