@@ -13,6 +13,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/op15082005light/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0075-sort-colors](https://github.com/op15082005light/leetcode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/op15082005light/leetcode/tree/master/0136-single-number) |
+| [0162-find-peak-element](https://github.com/op15082005light/leetcode/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/op15082005light/leetcode/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/op15082005light/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/op15082005light/leetcode/tree/master/0217-contains-duplicate) |
@@ -90,6 +91,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/op15082005light/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/op15082005light/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/op15082005light/leetcode/tree/master/0162-find-peak-element) |
 | [0349-intersection-of-two-arrays](https://github.com/op15082005light/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/op15082005light/leetcode/tree/master/0704-binary-search) |
 | [1539-kth-missing-positive-number](https://github.com/op15082005light/leetcode/tree/master/1539-kth-missing-positive-number) |
