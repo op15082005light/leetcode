@@ -24,6 +24,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/op15082005light/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/op15082005light/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0704-binary-search](https://github.com/op15082005light/leetcode/tree/master/0704-binary-search) |
+| [0713-subarray-product-less-than-k](https://github.com/op15082005light/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0817-linked-list-components](https://github.com/op15082005light/leetcode/tree/master/0817-linked-list-components) |
 | [1539-kth-missing-positive-number](https://github.com/op15082005light/leetcode/tree/master/1539-kth-missing-positive-number) |
 ## Hash Table
@@ -106,6 +107,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/op15082005light/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/op15082005light/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/op15082005light/leetcode/tree/master/0704-binary-search) |
+| [0713-subarray-product-less-than-k](https://github.com/op15082005light/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [1539-kth-missing-positive-number](https://github.com/op15082005light/leetcode/tree/master/1539-kth-missing-positive-number) |
 ## Divide and Conquer
 |  |
@@ -198,4 +200,12 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/op15082005light/leetcode/tree/master/0202-happy-number) |
+## Sliding Window
+|  |
+| ------- |
+| [0713-subarray-product-less-than-k](https://github.com/op15082005light/leetcode/tree/master/0713-subarray-product-less-than-k) |
+## Prefix Sum
+|  |
+| ------- |
+| [0713-subarray-product-less-than-k](https://github.com/op15082005light/leetcode/tree/master/0713-subarray-product-less-than-k) |
 <!---LeetCode Topics End-->
