@@ -19,8 +19,8 @@ public:
             if(temp->val==0){
                 temp=temp->next;
                 if(sum!=0){
-                    ListNode* a =new ListNode(sum);
-                  temp1->next=a;
+                    temp1->next = new ListNode(sum);
+                 
                   temp1=temp1->next;
                 }
                 sum=0;
