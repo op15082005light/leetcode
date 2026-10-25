@@ -136,6 +136,7 @@
 | [0817-linked-list-components](https://github.com/op15082005light/leetcode/tree/master/0817-linked-list-components) |
 | [1669-merge-in-between-linked-lists](https://github.com/op15082005light/leetcode/tree/master/1669-merge-in-between-linked-lists) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/op15082005light/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/op15082005light/leetcode/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Recursion
 |  |
 | ------- |
@@ -218,4 +219,8 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/op15082005light/leetcode/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/op15082005light/leetcode/tree/master/0152-maximum-product-subarray) |
+## Simulation
+|  |
+| ------- |
+| [2181-merge-nodes-in-between-zeros](https://github.com/op15082005light/leetcode/tree/master/2181-merge-nodes-in-between-zeros) |
 <!---LeetCode Topics End-->
