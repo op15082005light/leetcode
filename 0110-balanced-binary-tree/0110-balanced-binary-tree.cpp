@@ -9,23 +9,26 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
-int hight(TreeNode * root){
-    if (root == nullptr){
-        return 0;
-    }return max(hight(root->left), hight(root->right))+1;
+ pair <bool ,int> depth(TreeNode * root){
+     if(root == nullptr ){
+            pair<bool , int > p=make_pair(true, 0);
+            return p;
+        }
+        pair<bool , int > left= depth(root->left);
+        pair<bool , int > right= depth(root->right);
+    
+bool  diff= abs(left.second - right.second)<=1;
+if(left.first && right.first && diff){
+    return  make_pair(true, max(left.second ,right.second)+1);
 }
+    return make_pair(false, max(left.second ,right.second)+1);
 
+
+ }
 class Solution {
 public:
     bool isBalanced(TreeNode* root) {
-        if (root == nullptr ){
-            return  true;
-        }
+       return depth(root).first;
 
-bool left=  isBalanced( root->left) ;
- bool right = isBalanced( root->right) ;
-bool diff =abs(hight(root->left)-hight(root ->right))<=1;
-if(left && right && diff)return 1;
-return 0;
     }
 };
