@@ -9,13 +9,14 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
- void sum(TreeNode* &root ,int& s){
+ void sum(TreeNode* & root ,int& s){
 if(root==nullptr)return ;
+bool a=false;
 if(root->left!=nullptr &&root->left->left == nullptr && root->left->right==nullptr ){
 s+=root->left->val;
-    
+    a=true;
 }
-sum(root->left , s);
+if(!a)sum(root->left , s);
 sum(root->right , s);
 
 
