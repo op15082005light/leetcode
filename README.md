@@ -56,6 +56,7 @@
 | [0020-valid-parentheses](https://github.com/op15082005light/leetcode/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/op15082005light/leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/op15082005light/leetcode/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/op15082005light/leetcode/tree/master/0257-binary-tree-paths) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/op15082005light/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Stack
 |  |
@@ -184,6 +185,7 @@
 | [0129-sum-root-to-leaf-numbers](https://github.com/op15082005light/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/op15082005light/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/op15082005light/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/op15082005light/leetcode/tree/master/0257-binary-tree-paths) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -197,6 +199,7 @@
 | [0129-sum-root-to-leaf-numbers](https://github.com/op15082005light/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/op15082005light/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/op15082005light/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/op15082005light/leetcode/tree/master/0257-binary-tree-paths) |
 ## Binary Tree
 |  |
 | ------- |
@@ -213,6 +216,7 @@
 | [0129-sum-root-to-leaf-numbers](https://github.com/op15082005light/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/op15082005light/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/op15082005light/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/op15082005light/leetcode/tree/master/0257-binary-tree-paths) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -248,4 +252,5 @@
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/op15082005light/leetcode/tree/master/0113-path-sum-ii) |
+| [0257-binary-tree-paths](https://github.com/op15082005light/leetcode/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
