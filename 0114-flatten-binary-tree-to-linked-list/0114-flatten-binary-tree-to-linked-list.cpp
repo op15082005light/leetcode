@@ -11,10 +11,6 @@
  */void preorder(TreeNode* root ,vector<int>& pre){
     if(root==nullptr)return;
         pre.push_back(root->val);
-    if(root->left==nullptr && root->right==nullptr){
-        return;
-    }
-
     preorder(root->left, pre);
     preorder(root->right, pre);
  }
@@ -29,8 +25,6 @@ public:
         temp->right=new TreeNode(pre[i]);
         temp=temp->right;
        
-
-
         }
       
     }
