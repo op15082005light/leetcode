@@ -31,6 +31,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/op15082005light/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0817-linked-list-components](https://github.com/op15082005light/leetcode/tree/master/0817-linked-list-components) |
 | [1539-kth-missing-positive-number](https://github.com/op15082005light/leetcode/tree/master/1539-kth-missing-positive-number) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/op15082005light/leetcode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -102,6 +103,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/op15082005light/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/op15082005light/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/op15082005light/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/op15082005light/leetcode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 ## Geometry
 |  |
 | ------- |
@@ -275,4 +277,8 @@
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/op15082005light/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+## Counting
+|  |
+| ------- |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/op15082005light/leetcode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 <!---LeetCode Topics End-->
