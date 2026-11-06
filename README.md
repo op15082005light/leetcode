@@ -46,6 +46,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/op15082005light/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/op15082005light/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0817-linked-list-components](https://github.com/op15082005light/leetcode/tree/master/0817-linked-list-components) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/op15082005light/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Math
 |  |
 | ------- |
@@ -105,6 +106,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/op15082005light/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/op15082005light/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/op15082005light/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/op15082005light/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/op15082005light/leetcode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 ## Geometry
 |  |
@@ -199,6 +201,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/op15082005light/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/op15082005light/leetcode/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/op15082005light/leetcode/tree/master/0404-sum-of-left-leaves) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/op15082005light/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -216,6 +219,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/op15082005light/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/op15082005light/leetcode/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/op15082005light/leetcode/tree/master/0404-sum-of-left-leaves) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/op15082005light/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -237,6 +241,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/op15082005light/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/op15082005light/leetcode/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/op15082005light/leetcode/tree/master/0404-sum-of-left-leaves) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/op15082005light/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -248,6 +253,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/op15082005light/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/op15082005light/leetcode/tree/master/0112-path-sum) |
 | [0404-sum-of-left-leaves](https://github.com/op15082005light/leetcode/tree/master/0404-sum-of-left-leaves) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/op15082005light/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
