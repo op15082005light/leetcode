@@ -29,7 +29,7 @@ void getsum(TreeNode* root , int &ans , int lvl,int& maxlvl){
 }
     int deepestLeavesSum(TreeNode* root) {
         int ans=0;
-        int maxlvl=0;
+        int maxlvl=-1;
         getsum(root ,ans,0,maxlvl);
         return ans;
     }
