@@ -10,7 +10,7 @@
  * };
  */
 class Solution {
-    void path(TreeNode* root , int & t ,vector<int> &p , int &count ){
+    void path(TreeNode*& root , int & t ,vector<int> &p , int &count ){
         if(root==NULL)return ;
         p.push_back(root->val);
 
