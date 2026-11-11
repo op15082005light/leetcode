@@ -11,7 +11,7 @@
  */
 class Solution {
 public:
-    void search(TreeNode* root, int val,TreeNode*& ans){
+    void search(TreeNode*& root, int& val,TreeNode*& ans){
     if(root==nullptr){
         ans=nullptr;
         return ;
