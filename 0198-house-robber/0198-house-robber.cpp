@@ -4,9 +4,9 @@ public:
         pair<int,int>ans=make_pair(0,0);
 
             int temp=ans.first;
-        for(int i=0;i<nums.size();i++){
+        for(int i:nums){
          temp=ans.first;
-            ans.first=nums[i]+ans.second;
+            ans.first=i+ans.second;
             ans.second=max(temp,ans.second);
         }return max(ans.first,ans.second);
     }
