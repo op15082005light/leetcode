@@ -206,6 +206,7 @@
 | [0337-house-robber-iii](https://github.com/op15082005light/leetcode/tree/master/0337-house-robber-iii) |
 | [0404-sum-of-left-leaves](https://github.com/op15082005light/leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/op15082005light/leetcode/tree/master/0437-path-sum-iii) |
+| [0700-search-in-a-binary-search-tree](https://github.com/op15082005light/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/op15082005light/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/op15082005light/leetcode/tree/master/1302-deepest-leaves-sum) |
 ## Depth-First Search
@@ -256,6 +257,7 @@
 | [0337-house-robber-iii](https://github.com/op15082005light/leetcode/tree/master/0337-house-robber-iii) |
 | [0404-sum-of-left-leaves](https://github.com/op15082005light/leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/op15082005light/leetcode/tree/master/0437-path-sum-iii) |
+| [0700-search-in-a-binary-search-tree](https://github.com/op15082005light/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/op15082005light/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/op15082005light/leetcode/tree/master/1302-deepest-leaves-sum) |
 ## Breadth-First Search
@@ -318,4 +320,8 @@
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/op15082005light/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/op15082005light/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
