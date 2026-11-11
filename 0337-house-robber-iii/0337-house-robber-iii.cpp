@@ -11,7 +11,7 @@
  */
 class Solution {
 public:
-  pair<int, int> solve(TreeNode* root){
+  pair<int, int> solve(TreeNode* & root){
     if(root==NULL){
         return make_pair(0,0);
     }
