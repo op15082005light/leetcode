@@ -11,7 +11,7 @@
  */
 class Solution {
 public:
-    void find(TreeNode* root, int low, int high,int & sum){
+    void find(TreeNode* &root, int& low, int &high,int & sum){
     if(root==nullptr)return;
     if(root->val>=low && root->val<=high)sum+=root->val;
     if(low<root->val){
