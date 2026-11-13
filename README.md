@@ -20,6 +20,7 @@
 | [0136-single-number](https://github.com/op15082005light/leetcode/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/op15082005light/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/op15082005light/leetcode/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/op15082005light/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/op15082005light/leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/op15082005light/leetcode/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/op15082005light/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -40,6 +41,7 @@
 | [0001-two-sum](https://github.com/op15082005light/leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/op15082005light/leetcode/tree/master/0013-roman-to-integer) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/op15082005light/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0169-majority-element](https://github.com/op15082005light/leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/op15082005light/leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/op15082005light/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/op15082005light/leetcode/tree/master/0242-valid-anagram) |
@@ -101,6 +103,7 @@
 | [0016-3sum-closest](https://github.com/op15082005light/leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/op15082005light/leetcode/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/op15082005light/leetcode/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/op15082005light/leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/op15082005light/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/op15082005light/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/op15082005light/leetcode/tree/master/0242-valid-anagram) |
@@ -131,6 +134,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/op15082005light/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/op15082005light/leetcode/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/op15082005light/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0169-majority-element](https://github.com/op15082005light/leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/op15082005light/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/op15082005light/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Trie
@@ -324,6 +328,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/op15082005light/leetcode/tree/master/0169-majority-element) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/op15082005light/leetcode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 ## Binary Lifting
 |  |
@@ -340,4 +345,8 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/op15082005light/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/op15082005light/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/op15082005light/leetcode/tree/master/0938-range-sum-of-bst) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/op15082005light/leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
