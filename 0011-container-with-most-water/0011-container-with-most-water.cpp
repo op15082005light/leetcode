@@ -4,12 +4,10 @@ public:
         int s=0;
         int e=h.size()-1;
         int ans=0;
+        
         while(s<e){
-        int temp=0;
-            temp=min(h[s],h[e])*(e-s);
-       if(ans<temp){
-        ans=temp;
-       }
+            int temp=min(h[s],h[e])*(e-s);
+       ans=max(ans,temp);
 
        if(h[s]<h[e]){
         s++;
