@@ -7,7 +7,7 @@ public:
         int temp=0;
         while(s<e){
              temp=min(h[s],h[e])*(e-s);
-       ans=max(ans,temp);
+      if(ans<temp)ans=temp;
 
        if(h[s]<h[e]){
         s++;
