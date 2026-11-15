@@ -57,6 +57,7 @@
 | [0013-roman-to-integer](https://github.com/op15082005light/leetcode/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/op15082005light/leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/op15082005light/leetcode/tree/master/0202-happy-number) |
+| [0258-add-digits](https://github.com/op15082005light/leetcode/tree/master/0258-add-digits) |
 | [0836-rectangle-overlap](https://github.com/op15082005light/leetcode/tree/master/0836-rectangle-overlap) |
 ## String
 |  |
@@ -320,6 +321,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/op15082005light/leetcode/tree/master/0258-add-digits) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/op15082005light/leetcode/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Backtracking
 |  |
@@ -363,4 +365,8 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/op15082005light/leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/op15082005light/leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
