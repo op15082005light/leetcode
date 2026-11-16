@@ -69,6 +69,7 @@
 | [0242-valid-anagram](https://github.com/op15082005light/leetcode/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/op15082005light/leetcode/tree/master/0257-binary-tree-paths) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/op15082005light/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/op15082005light/leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -323,6 +324,7 @@
 | ------- |
 | [0258-add-digits](https://github.com/op15082005light/leetcode/tree/master/0258-add-digits) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/op15082005light/leetcode/tree/master/2181-merge-nodes-in-between-zeros) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/op15082005light/leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Backtracking
 |  |
 | ------- |
