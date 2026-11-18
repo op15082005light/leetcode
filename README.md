@@ -51,6 +51,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/op15082005light/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0817-linked-list-components](https://github.com/op15082005light/leetcode/tree/master/0817-linked-list-components) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/op15082005light/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/op15082005light/leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Math
 |  |
 | ------- |
@@ -69,6 +70,7 @@
 | [0242-valid-anagram](https://github.com/op15082005light/leetcode/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/op15082005light/leetcode/tree/master/0257-binary-tree-paths) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/op15082005light/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/op15082005light/leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/op15082005light/leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Stack
 |  |
@@ -343,6 +345,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/op15082005light/leetcode/tree/master/0169-majority-element) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/op15082005light/leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/op15082005light/leetcode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 ## Binary Lifting
 |  |
