@@ -61,6 +61,7 @@
 | [0202-happy-number](https://github.com/op15082005light/leetcode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/op15082005light/leetcode/tree/master/0258-add-digits) |
 | [0836-rectangle-overlap](https://github.com/op15082005light/leetcode/tree/master/0836-rectangle-overlap) |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/op15082005light/leetcode/tree/master/1812-determine-color-of-a-chessboard-square) |
 ## String
 |  |
 | ------- |
@@ -71,6 +72,7 @@
 | [0242-valid-anagram](https://github.com/op15082005light/leetcode/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/op15082005light/leetcode/tree/master/0257-binary-tree-paths) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/op15082005light/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/op15082005light/leetcode/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/op15082005light/leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/op15082005light/leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Stack
