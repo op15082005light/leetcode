@@ -61,6 +61,7 @@
 | [0202-happy-number](https://github.com/op15082005light/leetcode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/op15082005light/leetcode/tree/master/0258-add-digits) |
 | [0836-rectangle-overlap](https://github.com/op15082005light/leetcode/tree/master/0836-rectangle-overlap) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/op15082005light/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/op15082005light/leetcode/tree/master/1812-determine-color-of-a-chessboard-square) |
 ## String
 |  |
@@ -170,6 +171,7 @@
 | [0206-reverse-linked-list](https://github.com/op15082005light/leetcode/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/op15082005light/leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0817-linked-list-components](https://github.com/op15082005light/leetcode/tree/master/0817-linked-list-components) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/op15082005light/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1669-merge-in-between-linked-lists](https://github.com/op15082005light/leetcode/tree/master/1669-merge-in-between-linked-lists) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/op15082005light/leetcode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/op15082005light/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
