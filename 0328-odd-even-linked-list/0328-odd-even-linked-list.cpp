@@ -20,14 +20,13 @@ public:
         }n++;
         n=n/2;
         auto pre=head;
-        auto last=head;
+    
         while(n>0){
-                last=pre->next;
-                pre->next=last->next;
-                last->next=NULL;
-                n--;
-                temp->next=last;
+                temp->next=pre->next;
                 temp=temp->next;
+                pre->next=temp->next;
+                temp->next=NULL;
+                n--;
                 pre=pre->next;
         }return head;
     }
